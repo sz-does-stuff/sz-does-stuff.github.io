@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.2"
-gem "minima"
+gem "bulma-clean-theme"
 
 #group :jekyll_plugins do
     
