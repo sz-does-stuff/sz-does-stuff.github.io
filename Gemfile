@@ -1,10 +1,4 @@
-# Gemfile
+# frozen_string_literal: true
 
-source 'https://rubygems.org'
-
-gem "jekyll", "~> 4.2"
-gem "bulma-clean-theme"
-
-#group :jekyll_plugins do
-    
-#end
+source "https://rubygems.org"
+gemspec
